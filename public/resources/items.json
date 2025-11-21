@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Blue T-Shirt",
+    "price": 19.99,
+    "description": "A soft cotton T-shirt.",
+    "image": "/shirt-blue.png",
+    "category": "clothing",
+    "stock": 42
+  },
+  {
+    "id": 2,
+    "name": "Gaming Mouse",
+    "price": 49.99,
+    "description": "RGB 7-button gaming mouse.",
+    "image": "/mouse.png",
+    "category": "electronics",
+    "stock": 12
+  }
+]
