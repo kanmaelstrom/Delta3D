@@ -4,10 +4,6 @@ body {
 }
 
 @font-face {
-    font-family: StackSans;
-    src: url("/resources/StackSans.ttf");
-}
-
-#items {
-    font-family: StackSans;
+    font-family: SF;
+    src: url("/resources/bmsf.woff2");
 }
