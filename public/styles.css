@@ -1,12 +1,11 @@
 @font-face {
     font-family: SF;
-    src: url("/resources/bmsf.woff2");
-    font-weight: 500;
+    src: url("/resources/bmsf.woff2") format("woff2");
+    font-display: swap;
 }
 
 body {
     background: #E2E2DF;
-    display: flex;
     font-family: SF;
 }
 
