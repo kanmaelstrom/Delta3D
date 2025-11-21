@@ -1,6 +1,7 @@
 @font-face {
     font-family: SF;
     src: url("/resources/bmsf.woff2");
+    font-weight: 500;
 }
 
 body {
