@@ -2,3 +2,12 @@ body {
     background: #E2E2DF;
     display: flex;
 }
+
+@font-face {
+    font-family: StackSans;
+    src: url("/resources/StackSans.ttf");
+}
+
+#items {
+    font-family: StackSans;
+}
