@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #E2E2DF;
-    font-family: SF;
+    font-family: SF, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
-
