@@ -1,9 +1,11 @@
-body {
-    background: #E2E2DF;
-    display: flex;
-}
-
 @font-face {
     font-family: SF;
     src: url("/resources/bmsf.woff2");
 }
+
+body {
+    background: #E2E2DF;
+    display: flex;
+    font-family: SF;
+}
+
